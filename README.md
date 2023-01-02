@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![](./smu-economics.jpeg)
 <!--
