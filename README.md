@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StrataMobileApp](https://www.strata-is.com/) & [nftsociale](https://www.nftsociale.net/)
 - 🌱 I’m currently learning how to build IOS mobile apps & [DApps](https://ethereum.org/en/dapps/) on the Ethereum blockchain.
-- 🤔 I’m looking for help building one the best blockchain company on the market.
+- 🤔 I’m looking for help building and designing cool Apps.
 - 📫 How to reach me: [Info](https://kelvinkissi.io/)
 - 😄 Pronouns: 'Kelvin Kissi'
 - 👨🏾‍💻 Linkedin: [Linkedin](https://www.linkedin.com/in/kelvin-kissi/)
