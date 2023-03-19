@@ -14,6 +14,13 @@
 - ⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.
 
 
+<p align="center">
+  <a href="https://github.com/kissikelvin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kissikelvin&theme=github_dark" alt="Kelvin's GitHub Contribution"/>
+  </a>
+</p>
+
+
 
 
 
