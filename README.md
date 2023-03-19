@@ -12,9 +12,7 @@
 - 😄 Pronouns: 'Kelvin Kissi'
 - 👨🏾‍💻 Linkedin: [Linkedin](https://www.linkedin.com/in/kelvin-kissi/)
 - ⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.
-<!-- 
 
-[![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kissikelvin)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <p align="center">
@@ -23,11 +21,12 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kissikelvin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kissikelvin&layout=compact)](https://github.com/kissikelvin/github-readme-stats) 
   </a>
-</p> -->
+</p>
+
 <!-- - 💬 Ask me about ... -->
 
 
