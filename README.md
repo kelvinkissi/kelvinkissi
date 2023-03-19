@@ -15,11 +15,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/kissikelvin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kissikelvin&theme=github_dark" alt="Kelvin's GitHub Contribution"/>
-  </a>
-</p>
+
 
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kissikelvin&layout=compact)](https://github.com/kissikelvin/github-readme-stats)  -->
