@@ -21,12 +21,9 @@
   </a>
 </p>
 
-<p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kissikelvin&layout=compact)](https://github.com/kissikelvin/github-readme-stats) 
-  </a>
-</p>
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kissikelvin&layout=compact)](https://github.com/kissikelvin/github-readme-stats)  -->
+  
 <!-- - 💬 Ask me about ... -->
 
 
