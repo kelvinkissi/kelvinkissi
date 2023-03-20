@@ -5,7 +5,7 @@
 <!-- **kissikelvin/kissikelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on [StrataMobileApp](https://www.strata-is.com/) & [nftsociale](https://www.nftsociale.net/)
+- 🔭 I’m currently working on [StrataMobileApp](https://www.strata-is.com/) 
 - 🌱 I’m currently learning how to build IOS mobile apps & [DApps](https://ethereum.org/en/dapps/) on the Ethereum blockchain.
 - 🤔 I’m looking for help building and designing cool Apps.
 - 📫 How to reach me: [Info](https://kelvinkissi.io/)
