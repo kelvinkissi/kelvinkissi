@@ -23,8 +23,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/kissikelvin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kissikelvin&theme=github_dark" alt="Kelvin's GitHub Contribution"/>
+  <a href="https://github.com/kelvinkissi">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinkissi&theme=github_dark" alt="Kelvin's GitHub Contribution"/>
   </a>
 </p>
 
