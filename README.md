@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on [StrataMobileApp](https://github.com/kissikelvin/Strata-Mobile-App) 
+- 🔭 I’m currently working on [StrataMobileApp](https://github.com/Strata-Innovative-Solutions) 
 - 🌱 I’m currently learning how to build IOS mobile apps & [DApps](https://ethereum.org/en/dapps/) on the Ethereum blockchain.
 - 🤔 I’m looking for help building and designing cool Apps.
 - 📫 How to reach me: [Info](https://kelvinkissi.io/)
