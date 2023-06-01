@@ -5,19 +5,18 @@
 ---
 
 <p align="center">                        
-  <img src="./smu-econ.jpeg">
-   
+  <img src="./smu-econ.jpeg">   
 </p>
 
 ---
 
 - 🔭 I’m currently working on [StrataMobileApp](https://github.com/Strata-Innovative-Solutions) 
-- 🌱 I’m currently learning how to build IOS mobile apps & [DApps](https://ethereum.org/en/dapps/) on the Ethereum blockchain.
+- 🌱 I’m currently learning how to build [DApps](https://ethereum.org/en/dapps/) on the Ethereum blockchain.
 - 🤔 I’m looking for help building and designing cool Apps.
 - 📫 How to reach me: [Info](https://kelvinkissi.io/)
 - 😄 Pronouns: 'Kelvin Kissi'
-- 👨🏾‍💻 Linkedin: [Linkedin](https://www.linkedin.com/in/kelvin-kissi/)
 - ⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.
+<!-- - 👨🏾‍💻 Linkedin: [Linkedin](https://www.linkedin.com/in/kelvin-kissi/) -->
 
 ---
 
