@@ -1,7 +1,9 @@
-
-
-<meta name="google-site-verification" content="6cnUfh7iOlBmVXTTrNFod2SB2ey-f925-hQl9KIrKpo" />
-
+<html>
+	<head>
+  <meta name="google-site-verification" content="6cnUfh7iOlBmVXTTrNFod2SB2ey-f925-hQl9KIrKpo" />
+  </head>
+  
+  
 ---
 
 <p align="center">                        
