@@ -6,7 +6,7 @@
   
 
   <p align="center">
-    <img src="./smu-econ.jpeg">
+    <img src="./big-data-cloud-based-solution.jpeg">
   </p>
 
   	
