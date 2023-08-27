@@ -19,7 +19,7 @@
     </li>
     <li>
       <p align="center">
-      <strong>🌱 I’m currently learning how to build <a href="https://ethereum.org/en/dapps/">DApps</a> on the Ethereum blockchain.</strong>
+      <strong>🌱 I’m currently building <a href="https://ethereum.org/en/dapps/">DApps</a> on the Ethereum blockchain.</strong>
         </p>
     </li>
     <li>
