@@ -19,12 +19,12 @@
     </li>
     <li>
       <p align="center">
-      <strong>🌱 I’m currently building <a href="https://ethereum.org/en/dapps/">DApps</a> on the Ethereum blockchain.</strong>
+      <strong></strong>
         </p>
     </li>
     <li>
       <p align="center">
-      <strong>🤔 I’m looking for help building and designing cool Apps.</strong>
+      <strong></strong>
         </p>
     </li>
     <li>
