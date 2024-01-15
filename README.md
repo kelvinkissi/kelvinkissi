@@ -34,7 +34,7 @@
     </li>
     <li>
       <p align="center">
-      <strong>😄 Pronouns: 'Kelvin Kissi'</strong>
+      <strong></strong>
         </p>
     </li>
     <li>
