@@ -29,7 +29,7 @@
     </li>
     <li>
       <p align="center">
-      <strong>📫 How to reach me: <a href="https://kelvinkissi.io/">Info</a></strong>
+<!--       <strong>📫 How to reach me: <a href="https://kelvinkissi.io/">Info</a></strong> -->
         </p>
     </li>
     <li>
