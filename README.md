@@ -44,7 +44,7 @@
     </li>
 <li>
 <!--       <strong>👨🏾‍💻 Linkedin: <a href="https://www.linkedin.com/in/kelvin-kissi/">Linkedin</a></strong>
-    </li> --> -->
+    </li> --> 
   </ul>
 
   
