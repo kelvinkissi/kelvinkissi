@@ -33,7 +33,7 @@
         </p>
     </li>
     <li>
-      <p align="center">
+<!--       <p align="center"> -->
 <!--       <strong></strong> -->
         </p>
     </li>
