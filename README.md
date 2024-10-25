@@ -24,7 +24,7 @@
     </li>
     <li>
       <p align="center">
-      <strong></strong>
+<!--       <strong></strong> -->
         </p>
     </li>
     <li>
@@ -34,7 +34,7 @@
     </li>
     <li>
       <p align="center">
-      <strong></strong>
+<!--       <strong></strong> -->
         </p>
     </li>
     <li>
