@@ -42,7 +42,7 @@
       <strong>⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.</strong>
         </p>
     </li>
-<li>
+<!-- <li> -->
 <!--       <strong>👨🏾‍💻 Linkedin: <a href="https://www.linkedin.com/in/kelvin-kissi/">Linkedin</a></strong>
     </li> --> 
   </ul>
