@@ -37,7 +37,7 @@
 <!--       <strong></strong> -->
         </p>
     </li>
-    <li>
+<!--     <li> -->
       <p align="center">
       <strong>⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.</strong>
         </p>
