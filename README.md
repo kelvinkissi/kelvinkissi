@@ -6,7 +6,7 @@
   
 
   <p align="center">
-    <img src="./big-data-cloud-based-solution.jpeg">
+<!--     <img src="./big-data-cloud-based-solution.jpeg"> -->
   </p>
 
   	
