@@ -17,22 +17,22 @@
       <strong>🔭 I’m currently working on an <a href="https://www.apple.com/app-store/">IOS Mobile App</a></strong>
         </p>
     </li>
-    <li>
+<!--     <li> -->
 <!--       <p align="center">
       <strong></strong> -->
         </p>
     </li>
-    <li>
+<!--     <li> -->
 <!--       <p align="center"> -->
 <!--       <strong></strong> -->
         </p>
     </li>
-    <li>
+<!--     <li> -->
 <!--       <p align="center"> -->
 <!--       <strong>📫 How to reach me: <a href="https://kelvinkissi.io/">Info</a></strong> -->
         </p>
     </li>
-    <li>
+<!--     <li> -->
 <!--       <p align="center"> -->
 <!--       <strong></strong> -->
         </p>
@@ -42,7 +42,7 @@
       <strong>⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.</strong>
         </p>
     </li>
-    <!-- <li>
+<li>
       <strong>👨🏾‍💻 Linkedin: <a href="https://www.linkedin.com/in/kelvin-kissi/">Linkedin</a></strong>
     </li> -->
   </ul>
