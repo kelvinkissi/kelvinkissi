@@ -18,17 +18,17 @@
         </p>
     </li>
     <li>
-      <p align="center">
-      <strong></strong>
+<!--       <p align="center">
+      <strong></strong> -->
         </p>
     </li>
     <li>
-      <p align="center">
+<!--       <p align="center"> -->
 <!--       <strong></strong> -->
         </p>
     </li>
     <li>
-      <p align="center">
+<!--       <p align="center"> -->
 <!--       <strong>📫 How to reach me: <a href="https://kelvinkissi.io/">Info</a></strong> -->
         </p>
     </li>
