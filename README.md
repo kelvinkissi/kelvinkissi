@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/{kelvinkissi}/{kelvinkissi})]
+![Visits Badge](https://badges.pufler.dev/visits/{kelvinkissi}/{kelvinkissi})
 
 </div>
 
