@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![Visits Badge](https://badges.pufler.dev/visits/{kelvinkissi}/{kelvinkissi})
+![Visitor Count](https://profile-counter.glitch.me/{kelvinkissi}/count.svg)
 
 </div>
 
