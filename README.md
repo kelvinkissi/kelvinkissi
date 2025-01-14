@@ -7,7 +7,6 @@
   
 
   <p align="center">
-<!--     <img src="./big-data-cloud-based-solution.jpeg"> -->
   </p>
 
   	
@@ -53,7 +52,7 @@
   <p align="center">
     
       
-    </a>
+    
   </p>
 </html>
 
