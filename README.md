@@ -13,7 +13,7 @@
 
   <ul>
     <li>
-      <p align="center">
+<!--       <p align="center"> -->
       <strong> </strong>
         </p>
     </li>
@@ -29,7 +29,7 @@
     </li>
 <!--     <li> -->
 <!--       <p align="center"> -->
-<!--       <strong>📫 How to reach me: <a href="https://kelvinkissi.io/">Info</a></strong> -->
+<!--       <strong>📫 How to reach me: <a href="">Info</a></strong> -->
         </p>
     </li>
 <!--     <li> -->
