@@ -14,7 +14,7 @@
   <ul>
     <li>
       <p align="center">
-      <strong></a></strong>
+      <strong> </strong>
         </p>
     </li>
 <!--     <li> -->
