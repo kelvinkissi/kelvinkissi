@@ -14,7 +14,7 @@
   <ul>
     <li>
       <p align="center">
-      <strong>🔭 I’m currently working on an <a href="https://rea-ci.vercel.app/">IOS Mobile App</a></strong>
+      <strong></a></strong>
         </p>
     </li>
 <!--     <li> -->
