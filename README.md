@@ -12,7 +12,7 @@
   	
 
   <ul>
-    <li>
+<!--     <li> -->
 <!--       <p align="center"> -->
       <strong> </strong>
         </p>
