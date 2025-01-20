@@ -59,7 +59,7 @@
 
 <div align="center">
 
-
+![Visitor Count](https://profile-counter.glitch.me/{kelvinkissi}/count.svg)
 
 </div>
 
