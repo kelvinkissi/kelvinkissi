@@ -1,4 +1,4 @@
-</html>
+
   <head>
     <meta name="msvalidate.01" content="22E26E71FA9EEE3C8FCBA57297784F5B" />
     <meta name="google-site-verification" content="6cnUfh7iOlBmVXTTrNFod2SB2ey-f925-hQl9KIrKpo" />
@@ -62,7 +62,7 @@
 </div>
 
 
-<h3 align="center">Connect with me:</div>
+<h3 align="center">Connect with me:
 <p align="center">
 <a href="https://www.hackerrank.com/kelvinkissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kelvinkissi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kelvinkissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kelvinkissi" height="30" width="40" /></a>
