@@ -1,4 +1,4 @@
-<html>
+
   <head>
     <meta name="msvalidate.01" content="22E26E71FA9EEE3C8FCBA57297784F5B" />
     <meta name="google-site-verification" content="6cnUfh7iOlBmVXTTrNFod2SB2ey-f925-hQl9KIrKpo" />
