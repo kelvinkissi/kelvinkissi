@@ -12,40 +12,8 @@
   	
 
   <ul>
-<!--     <li> -->
-<!--       <p align="center"> -->
-      <strong> </strong>
+
         
-    </li>
-<!--     <li> -->
-<!--       <p align="center">
-      <strong></strong> -->
-        </p>
-    </li>
-<!--     <li> -->
-<!--       <p align="center"> -->
-<!--       <strong></strong> -->
-        </p>
-    </li>
-<!--     <li> -->
-<!--       <p align="center"> -->
-<!--       <strong>📫 How to reach me: <a href="">Info</a></strong> -->
-        </p>
-    </li>
-<!--     <li> -->
-<!--       <p align="center"> -->
-<!--       <strong></strong> -->
-        </p>
-    </li>
-    <li>
-      <p align="center">
-      <strong>⚡ Fun fact: I strive to bring new technological solutions and make this emerging space easy for all of us to navigate.</strong>
-        </p>
-    </li>
-<!-- <li> -->
-<!--       <strong>👨🏾‍💻 Linkedin: <a href="https://www.linkedin.com/in/kelvin-kissi/">Linkedin</a></strong>
-    </li> --> 
-  </ul>
 
   
 
@@ -53,13 +21,12 @@
     
       
     
-  </p>
+
 
 
 <div align="center">
 
 
-</div>
 
 
 <h3 align="center">Connect with me:
